@@ -1,5 +1,15 @@
 {
-    "latest": "1.1.1",
+    "latest": "1.1.2",
     "min": "1.0.8",
-    "message": "Cập Nhật Đi Mấy Thằng Ngu Kia!!"
+    "message": "Cập Nhật Đi Mấy Thằng Ngu Kia!!",
+    "android": {
+        "latest": "",
+        "min": "",
+        "url": ""
+    },
+    "ios": {
+        "latest": "",
+        "min": "",
+        "url": ""
+    }
 }

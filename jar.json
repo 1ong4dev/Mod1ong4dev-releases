@@ -1,0 +1,8 @@
+{
+    "latest":  "0.0.1",
+    "min":  "0.0.0",
+    "message":  "",
+    "notes":  "- Bản JAR đầu tiên: mod Ngọc Rồng Online 2.5.2 chạy trên MicroEmulator, kèm QLTK quản lý nhiều acc (giải nén là chạy, không cần cài Java)\n- QLTK: thêm / sửa acc ngay trên 1 dòng (bấm chọn acc là hiện thông tin, sửa xong bấm Sửa), tự đăng nhập, theo dõi, cảnh báo\n- Mỗi acc 1 cửa sổ tên 1ong4devjar.STT kèm icon riêng, các cửa sổ gộp chung 1 nút trên taskbar, nút \"Xếp cửa sổ\" xếp gọn theo STT\n- Proxy riêng từng acc (SOCKS5 / HTTP, có hoặc không user:pass): nút \"Proxy\" ở tab Tài khoản, dán danh sách để chia cho nhiều acc, nút Kiểm tra cho biết proxy có vào được máy chủ game không. Proxy lỗi thì game không kết nối, không tự dùng IP thật\n- Tự ngủ khi không thao tác (mặc định 5 phút, chỉnh trong menu FPS / Tự Ngủ hoặc QLTK): gần như không tốn CPU, auto vẫn chạy, bấm phím / chạm để dùng lại\n- Sai tài khoản / mật khẩu: dừng tự đăng nhập và báo \"Sai mật khẩu\" trên QLTK (tránh bị khóa vì đăng nhập sai nhiều lần); lỗi mạng / bảo trì vẫn tự vào lại\n- Lệnh từ QLTK báo rõ acc nào chưa vào game / chưa xác nhận key thay vì báo đã gửi\n- Thẻ acc: đệ tử hiện sức mạnh tăng mỗi giờ, sức đánh, giáp; cửa sổ Thống kê xem lịch sử nhặt đồ\n- Menu nút trong game (hành trang, shop...): Enter bấm nút đầu, ← → chọn nút rồi Enter\n- QLTK tự kiểm tra và cập nhật bản mới",
+    "url":  "https://github.com/1ong4dev/Mod1ong4dev-releases/releases/download/jar-v0.0.1/NROMod-JAR-update.zip",
+    "full":  "https://github.com/1ong4dev/Mod1ong4dev-releases/releases/download/jar-v0.0.1/NROMod-JAR.zip"
+}
